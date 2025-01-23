@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imma1001
-- 👀 I’m interested in Backend Development, Cybersecurity
+- 👀 I’m interested in Frontend and Backend Development, Cybersecurity
 - 🌱 I’m currently learning React,Laravel
 
 
